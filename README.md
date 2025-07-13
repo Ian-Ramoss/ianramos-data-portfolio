@@ -29,7 +29,7 @@ Os projetos aqui presentes utilizam dados reais ou sintéticos com base em exper
 
 | Projeto | Descrição | Tecnologias | Link |
 |--------|-----------|-------------|------|
-| 💧 **Painel de Consumo de Água - Condomínio** | Projeto completo com geração de dados, sazonalidade, dashboards e análise proativa de consumo. | Power BI, DAX, IA | [🔗 Ver projeto](https://github.com/Ian-Ramoss/ianramos-data-portfolio/tree/main/Controle-agua-condominio) |
+| 💧 **Painel de Consumo de Água - Condomínio** | Painel interativo criado para gestão e análise do consumo de água em um condomínio com 2 torres e 300 apartamentos, utilizando dados simulados com base em experiência real de gestão condominial. | Power BI, DAX, IA | [🔗 Ver projeto](https://github.com/Ian-Ramoss/ianramos-data-portfolio/tree/main/Controle-agua-condominio) |
 | 📦 **(Novo projeto em breve...)** |  |  |  |
 
 > 🔍 Quer ver projetos de cursos e estudos práticos?  
