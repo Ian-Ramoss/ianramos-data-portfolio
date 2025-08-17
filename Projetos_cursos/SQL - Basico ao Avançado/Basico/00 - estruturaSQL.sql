@@ -1,0 +1,11 @@
+SELECT
+    *
+FROM tb_customers
+
+WHERE
+
+GROUP BY
+
+ORDER BY
+
+LIMIT 5
