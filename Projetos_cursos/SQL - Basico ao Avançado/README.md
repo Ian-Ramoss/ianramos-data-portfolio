@@ -1,6 +1,6 @@
 # Curso “SQL Básico ao Avançado para Análise de Dados” (Udemy)
 
-Este repositório reúne minhas atividades práticas do curso **"SQL Básico ao Avançado para Análise de Dados"**, ministrado por **André Mendonça Krul** na Udemy :contentReference[oaicite:0]{index=0}.
+Este repositório reúne minhas atividades práticas do curso **"SQL Básico ao Avançado para Análise de Dados"**, ministrado por **André Mendonça Krul** na Udemy
 
 Cada arquivo SQL é um passo na minha jornada de aprendizado — desde consultas simples até técnicas avançadas como CTEs e Window Functions.
 
