@@ -38,7 +38,7 @@ total AS (
   FROM paysim_clean
 )
 SELECT *
-FROM falso_negativo, falsos_positivos, fraud, total, transacoes_ok
+FROM falso_negativo, falsos_positivos, verdadeiro_positivo, total, verdadeiro_negativo
 
 
 -- Fraude (prejuízo) por tipo de transação - utilizada no Power BI
