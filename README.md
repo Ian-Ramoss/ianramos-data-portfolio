@@ -40,7 +40,6 @@ Os projetos aqui presentes utilizam dados reais ou sintéticos com base em exper
 ## 📍 Em desenvolvimento
 - Projeto 3: análise de dados com Python e Pandas
 - Certificação PL-300 Power BI
-- 
 ---
 
 ## 👨‍💻 Sobre mim
