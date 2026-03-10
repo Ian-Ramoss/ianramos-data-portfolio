@@ -30,7 +30,7 @@ não detectado.
 - Dataset: PaySim (Kaggle)
 
 ## Dashboard
-![Preview do Dashboard](imagens/dashboard.png)
+![Preview do Dashboard](Imagens/dashboard.jpg)
 
 O arquivo `.pbix` está disponível na pasta `/dashboard` para visualização local no Power BI Desktop.
 
