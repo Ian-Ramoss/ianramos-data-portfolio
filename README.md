@@ -30,6 +30,7 @@ Os projetos aqui presentes utilizam dados reais ou sintéticos com base em exper
 | Projeto | Descrição | Tecnologias | Link |
 |--------|-----------|-------------|------|
 | 💧 **Painel de Consumo de Água - Condomínio** | Painel interativo criado para gestão e análise do consumo de água em um condomínio com 2 torres e 300 apartamentos, utilizando dados simulados com base em experiência real de gestão condominial. | Power BI, DAX, IA | [🔗 Ver projeto](https://github.com/Ian-Ramoss/ianramos-data-portfolio/tree/main/Controle-agua-condominio) |
+| 🔍 **Análise de Detecção de Fraudes — PaySim** |	Análise exploratória de 6,3 milhões de transações mobile para identificar padrões de fraude, calcular prejuízo não detectado (R$ 11,98 Bi) e avaliar eficiência do modelo de detecção usando Matriz de Confusão. | Pipeline completo no Databricks com arquitetura Bronze → Silver → Gold. Python + SQL | [🔗 Ver projeto](https://github.com/Ian-Ramoss/ianramos-data-portfolio/tree/main/Preven%C3%A7%C3%A3o%20a%20fraudes)
 | 📦 **(Novo projeto em breve...)** |  |  |  |
 
 > 🔍 Quer ver projetos de cursos e estudos práticos?  
